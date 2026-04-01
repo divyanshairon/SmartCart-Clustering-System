@@ -1,0 +1,5 @@
+in pandas the date time format is mon-day-year
+Combined amount spent in one column 
+combined total kids + teens as Total_Children
+Date of customer joining into Tenure
+Calculated Age from Year of Birth
